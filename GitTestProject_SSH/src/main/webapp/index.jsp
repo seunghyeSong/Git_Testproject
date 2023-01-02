@@ -8,6 +8,10 @@
 </head>
 <body>
 	<!--  SSH_branch 에서 추가한 주석 -->
+<<<<<<< HEAD
 	<!-- branch_KGM에서 추가한 주석 -->
+=======
+	<!--  SSH_branch 에서 추가한 주석 2222-->
+>>>>>>> refs/heads/Branch_SSH
 </body>
 </html>
